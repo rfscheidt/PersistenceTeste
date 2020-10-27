@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
 
 import br.com.seasoft.dto.Comment;
 
-//teste
 @Repository
 public interface CommentRepository extends JpaRepository<Comment, Long> {
 	
