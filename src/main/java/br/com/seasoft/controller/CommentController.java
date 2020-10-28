@@ -11,6 +11,11 @@ import br.com.seasoft.dto.Employee;
 import br.com.seasoft.repo.CommentRepository;
 import br.com.seasoft.repo.EmployeeRepository;
 
+/**
+ * 
+ * @author foka
+ *
+ */
 @RestController
 public class CommentController {
 	
